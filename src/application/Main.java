@@ -12,7 +12,7 @@ public class Main {
 		
 		Seller seller = sellerDao.findById(3);
 		
-		System.out.println(seller);
+		System.out.println(seller + "");
 	}
 
 }
